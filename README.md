@@ -1,5 +1,5 @@
 ## Welcome to my profile! 😄
-Systems Development Technician in ETE FMC
+Systems Development Technician 
 </a>
 #### Languages: 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30" />
