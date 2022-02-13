@@ -1,4 +1,4 @@
-## Welcome to my profile! 👋
+## Welcome to my profile! 😄
 Systems Development Technician in ETE FMC
 </a>
 
