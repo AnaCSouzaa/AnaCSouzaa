@@ -1,7 +1,11 @@
 ## Welcome to my profile! 😄
 Systems Development Technician in ETE FMC
 </a>
+#### Languages: 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30" />
 
+
+<!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=tokyonight) -->
 #### Contact information:
 <a href="https://github.com/AnaCSouzaa" alt="github" target="_blank">
 
