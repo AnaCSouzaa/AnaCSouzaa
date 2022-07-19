@@ -2,11 +2,11 @@
 
 
 ## About me: 
-👩‍💻 Graduated in the Systems Development course, with an emphasis on games;
+👩‍💻 Graduated from ETE-FMC in the Systems Development, with an emphasis on games
 <br />
-<br />
-<br />
-
+🌎 From Santa Rita do Sapucai - MG
+<br/>
+<br/>
 ## **Languages:**
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="30" height="30" />  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" />
 
