@@ -21,7 +21,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" width="30" height="30" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" width="30" height="30" />
 
 
-### Contact information:
+## Contact information:
 <a href="https://github.com/AnaCSouzaa" alt="github" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-000000?&style=flat-square&logo=GitHub&logoColor=white">
 <a href="https://www.linkedin.com/in/anacecilia-souza/>" alt="linkedin" target="_blank">
