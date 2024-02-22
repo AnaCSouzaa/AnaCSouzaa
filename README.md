@@ -2,7 +2,9 @@
 
 
 ## About me: 
-* 👩‍💻 Graduated from ETE-FMC in the Systems Development, with an emphasis on games
+* 👩‍💻 Graduating from INATEL in the Software Engineer, with an emphasis on games
+
+* ✅ Graduated from ETE-FMC in the Systems Development, with an emphasis on games
 
 * 🌎 From Santa Rita do Sapucai - MG
 <br/>
